@@ -29,4 +29,5 @@ func main() {
 	println(t2)
 	x, y := 100, 200
 	swap(&x, &y)
+	println(x,y)
 }
